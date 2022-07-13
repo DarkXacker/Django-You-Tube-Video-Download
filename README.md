@@ -5,7 +5,7 @@ Creating a virtual environment:
     .\venv\Scripts\activate
 
 Upload packages:
-    pip install pytube \n
+    pip install pytube
     pip install django
 
 Using the program:
